@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    geocoder-simplified (0.0.0.0)
+      geocoder
+      ohm
+      redis
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    geocoder (1.0.5)
+    nest (1.1.0)
+      redis (~> 2.1)
+    ohm (0.1.3)
+      nest (~> 1.0)
+    redis (2.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  geocoder-simplified!
