@@ -1,4 +1,4 @@
-The geocoder-simplified gem is intended to offer a no-frills wrapper on the geocoder gem.
+The geocoder-simplified gem provides a no-frills wrapper on the geocoder gem.
 Please let me know if you find a way to make this better.
 
 Cheers,
