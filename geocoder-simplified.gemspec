@@ -22,6 +22,5 @@ Gem::Specification.new do |s|
   # dependencies
   #s.add_development_dependency "rake-compiler"
   s.add_runtime_dependency "geocoder"
-  s.add_runtime_dependency "redis"
-  s.add_runtime_dependency "ohm"
+  s.add_runtime_dependency "redis-expiring_counter", "~> 1.0.0.0"
 end
