@@ -7,7 +7,7 @@ This includes rate limiting using Redis and API rollover based on failure or rat
 Please let me know if you find a way to make this better.
 
 Cheers,  
-Sean Vikoren  
+[Sean Vikoren](http://vikoren.com)  
 <sean@vikoren.com>
 
 <br />
