@@ -1,13 +1,13 @@
 geocoder-simplified
 ===================
 
-The 'geocoder-simplified' gem provides a no-frills wrapper on the geocoder gem.
-This includes rate limiting using Redis and API rollover based on failure or rate control.
+The 'geocoder-simplified' gem provides a no-frills wrapper on the geocoder gem.  
+This includes rate limiting using Redis and API rollover based on failure or rate control.  
 
 Please let me know if you find a way to make this better.
 
-Cheers,
-Sean Vikoren
+Cheers,  
+Sean Vikoren  
 <sean@vikoren.com>
 
 <br />
